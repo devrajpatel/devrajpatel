@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devrajpatel
 - 👀 I’m interested in application of deep learning techniques for personality recognition
-- 🌱 I’m currently learning deep learning techniques
+- 🌱 I’m currently learning deep learning techniques and its application for for solving congnitive challenges.
 - 💞️ I’m looking to collaborate on preparation of dataset for Indian context.
 - 📫 How to reach me : devraj.patel23@gmail.com
 
